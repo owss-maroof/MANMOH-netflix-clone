@@ -6,11 +6,7 @@ A Netflix-inspired streaming platform homepage built with pure HTML and CSS. No 
 
 👉 [https://owss-maroof.github.io/MANMOH](https://owss-maroof.github.io/MANMOH)
 
-## Preview
 
-![MANMOH Homepage](screenshot.png)
-
----
 
 ## What It Includes
 
